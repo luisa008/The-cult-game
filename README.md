@@ -1,6 +1,8 @@
 # The-cult-game
 This is the game made by Unity
 
+## 遊戲下載鏈結
+https://valuable-baron-7ac.notion.site/0094085c0ec446139e78f70c5d9e0153
 ## 動機
 本人負責策畫資訊營密室逃脫活動，但由於疫情肆虐營隊取消，所以決定將實體的密室遊戲製作成電腦遊戲
 ## 遊戲背景介紹
